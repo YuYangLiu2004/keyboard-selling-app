@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.ab8a7074.css",
-    "main.js": "./static/js/main.9f385db2.js",
+    "main.js": "./static/js/main.b2f8db92.js",
     "static/js/453.5772231e.chunk.js": "./static/js/453.5772231e.chunk.js",
     "static/media/Ivory Charm.webp": "./static/media/Ivory Charm.4302da17beeb34baa70f.webp",
     "static/media/Executive Suite.webp": "./static/media/Executive Suite.28c8b8092dbb0345d499.webp",
@@ -23,11 +23,11 @@
     "static/media/The Minimalist.webp": "./static/media/The Minimalist.ada3b8ebac9bd8009be1.webp",
     "index.html": "./index.html",
     "main.ab8a7074.css.map": "./static/css/main.ab8a7074.css.map",
-    "main.9f385db2.js.map": "./static/js/main.9f385db2.js.map",
+    "main.b2f8db92.js.map": "./static/js/main.b2f8db92.js.map",
     "453.5772231e.chunk.js.map": "./static/js/453.5772231e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab8a7074.css",
-    "static/js/main.9f385db2.js"
+    "static/js/main.b2f8db92.js"
   ]
 }
