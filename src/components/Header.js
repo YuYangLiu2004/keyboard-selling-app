@@ -19,7 +19,7 @@ function Header({ cartCount, onNavigate }) {
 
             {/* NEW: Portfolio Button */}
             <a 
-              href="" 
+              href="https://example.com"
               className="btn btn-outline-secondary me-3"
               target="_blank" 
               rel="noopener noreferrer"
