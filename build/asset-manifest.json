@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ab8a7074.css",
+    "main.js": "./static/js/main.9f385db2.js",
+    "static/js/453.5772231e.chunk.js": "./static/js/453.5772231e.chunk.js",
+    "static/media/Ivory Charm.webp": "./static/media/Ivory Charm.4302da17beeb34baa70f.webp",
+    "static/media/Executive Suite.webp": "./static/media/Executive Suite.28c8b8092dbb0345d499.webp",
+    "static/media/Retro Classic.jpg": "./static/media/Retro Classic.ce88f177220b6bbe2851.jpg",
+    "static/media/Forge Master.jpg": "./static/media/Forge Master.13f7a9cf03509a5b84e5.jpg",
+    "static/media/white cold keyboard.jpg": "./static/media/white cold keyboard.512475402bcde2b90ceb.jpg",
+    "static/media/Code Runner.jpg": "./static/media/Code Runner.ca6249635813d9250c74.jpg",
+    "static/media/Click-Clack Pro.jpg": "./static/media/Click-Clack Pro.48a2762321a3eebd5758.jpg",
+    "static/media/Pink Petal.jpg": "./static/media/Pink Petal.75ceee7a11ab5b9bed47.jpg",
+    "static/media/Stealth Pro.jpg": "./static/media/Stealth Pro.636d3abc2a969748d848.jpg",
+    "static/media/Compact Code.jpg": "./static/media/Compact Code.8d56bd1d3f5813e6a6cf.jpg",
+    "static/media/Obsidian TKL.webp": "./static/media/Obsidian TKL.0143d13ecf341b9c623d.webp",
+    "static/media/Cloud White.jpg": "./static/media/Cloud White.c11629b2f8fa5d7efe85.jpg",
+    "static/media/RGB Wave.jpg": "./static/media/RGB Wave.86d567c98cc180f99395.jpg",
+    "static/media/Pastel Dream.jpg": "./static/media/Pastel Dream.eda011b246f0e4045d94.jpg",
+    "static/media/Aura Glow V2.jpg": "./static/media/Aura Glow V2.44674ad6c615edd4ff2a.jpg",
+    "static/media/The Scribe.webp": "./static/media/The Scribe.83f9360371187b0ca9ce.webp",
+    "static/media/GamerX 1000.webp": "./static/media/GamerX 1000.db33c2de487486d2de53.webp",
+    "static/media/The Minimalist.webp": "./static/media/The Minimalist.ada3b8ebac9bd8009be1.webp",
+    "index.html": "./index.html",
+    "main.ab8a7074.css.map": "./static/css/main.ab8a7074.css.map",
+    "main.9f385db2.js.map": "./static/js/main.9f385db2.js.map",
+    "453.5772231e.chunk.js.map": "./static/js/453.5772231e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab8a7074.css",
+    "static/js/main.9f385db2.js"
+  ]
+}
